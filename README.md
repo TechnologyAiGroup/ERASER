@@ -2,7 +2,7 @@
 
 This is the website for the code and example data in the paper, "Efficient Reliability Attacks on Strong PUFs using Improved Evolution Strategies and Rank Correlation".
 
-Now it contains the attack method for XOR APUF, MPUF, cMPUF and iPUF in the folders named after the type of PUF.
+Now it contains the attack method for XOR APUF, MPUF, cMPUF and iPUF in the folders named after the type of PUF. We will continue updating this repository, adding code, data, and hardware implementations for other PUF types.
 
 To start the attack, please excute
 
