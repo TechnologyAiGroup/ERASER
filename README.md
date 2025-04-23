@@ -1,6 +1,6 @@
 # The ERASER Project
 
-This is the website for the code and example data in the paper, "Efficient Reliability Attacks on Strong PUFs using Improved Evolution Strategies and Rank Correlation".
+This is the website for the code and example data used in the project, Efficient Reliability Attacks on Strong PUFs.
 
 Now it contains the attack method for XOR APUF, MPUF, cMPUF and iPUF in the folders named after the type of PUF. We will continue updating this repository, adding code, data, and hardware implementations for other PUF types.
 
